@@ -151,9 +151,9 @@ async def account_login(bot: Client, m: Message):
     chat_id = input69.text
     await input69.delete(True)
     if chat_id == '/default':
-        chat_id = -1002094254723
+        chat_id = -1001923414148
     elif chat_id == '/default@bulk_uploader_bot':
-        chat_id = -1002094254723
+        chat_id = -1001923414148
     else:
         chat_id = chat_id
 
