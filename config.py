@@ -5,13 +5,13 @@ API_ID = getenv("API_ID", "22114233")
 
 API_HASH = getenv("API_HASH", "d7abcec5c967414fadb1d438fa05ebea")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6704979486:AAFwGWZZ4eLOErCuLQafTFypRdsIbF09S6c")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6620912637:AAFJXDeQRPCsi_9rGBlR4k2HMANH9-BSjZo")
 
 PASS_DB = int(os.environ.get("PASS_DB", "721"))
 
-sudo_group = -1002005463437
+sudo_group = -1002022752090
 sudo_user = 1403488629
-log_channel = -1002094254723
+log_channel = -1001923414148
 
 # try:
 #     ADMINS=[]
